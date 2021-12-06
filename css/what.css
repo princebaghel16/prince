@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	width:100%;
+	height: 100px;
+	background:#1ebea5;
+
+}
+.menu{
+	margin-top: -30px;
+	margin-left: 435px;
+}
+.menu a{
+	margin:15px;
+	font-size: 13px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+.a{
+	padding-left:300px;
+	padding-top:-20px;
+}
+.image{
+	margin-top: 25px;
+	margin-left: 100px;
+}
+.b{
+	margin-left: 450px;
+	margin-top: 230px;
+}
+.c{
+	font-size:30px;
+}

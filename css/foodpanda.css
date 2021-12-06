@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navber{
+	/*border: 2px solid black;*/
+	width: 100%;
+	height: 60px;
+}
+.navber img{
+	width:110px;
+	height:35px;
+	margin-left:190px;
+	margin-top: 13px;
+}
+.menu{
+	margin-left:1387px;
+	margin-top:-27px;
+}
+.menu a{
+	margin: 10px;
+	color:#d70f64;
+	text-decoration: none;
+}
+.a{
+	width: 100%;
+	height: 850PX;
+}
+.b{
+	background:gray;
+	width: 100%;
+	height: 60px;
+
+}
+.c{
+	text-align: center;
+}
+.d{
+	background-image: url(https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHw%3D&w=1000&q=80);
+	background-attachment: fixed;
+	width: 100%;
+	height:820px;
+	text-align: center;
+}
+.e{
+	background-image: url(https://media.istockphoto.com/photos/delivery-biker-arriving-at-destination-motogirl-picture-id1253501430?k=6&m=1253501430&s=612x612&w=0&h=xi_Gqtu5XqpX3XFZmZDLi_KSyi2FPNoUcrWoOW4jLGw=);
+	background-attachment: fixed;
+	width: 100%;
+	height: 820px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.f{
+	background-color: #d70f64;
+	width: 100%;
+	height:700px;
+	text-align: center;
+	top: 32px;
+}
+.fotter{
+	width: 100%;
+	height: 70px;
+}
+.g{
+	margin-top: -8px;
+	margin-left:477px;
+}
+.h{
+	width: 45px;
+	height:30px;
+	margin:5px;
+
+}
+.i{
+	font-size: 13px;
+	color: white;
+	margin-left:150px;
+}
+.j{
+	background: #d70f64;
+	color: white;
+	margin-left: 800px;
+    width: 350px;
+    height: 45px;
+}
+.k{
+	background:white;
+	color: #d70f64;
+	margin-left: 800px;
+	width: 350px;
+    height: 45px;  
+}
+.l{
+	position:relative;
+	top: 430px;
+	left:-40px;
+	text-align: center;
+}
+.m{
+	margin-left: 1400px;
+}
+12011994
